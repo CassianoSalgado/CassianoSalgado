@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CassianoSalgado" alt="Cassiano Salgado" /></a> </p>
 
-- 💬 Ask me about **Swift, HTML, CSS and JavaScript**
+- 💬 Ask me about **Swift**
 
 - 📫 How to reach me **cassiano.salgado01@gmail.com**
 
